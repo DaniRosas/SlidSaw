@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SlidSaw</string>
+    <string name="action_settings">Preferencias</string>
+    <string name="play"> Jugar </string>
+    <string name="start">Empieza</string>
+    <string name="slidsaw">Slidsaw</string>
+    <string name="Puntuaciones">Puntuaciones</string>
+    <string name="LevelText">Nivel</string>
+    <string name="makePhoto">Hacer Foto</string>
+    <string name="gallery">Galería</string>
+    <string name="default_pic">Por defecto</string>
+    <string name="time">Tiempo</string>
+    <string name="relative" translatable="false">relative</string>
+    <string name="OK">OK</string>
+    <string name="name">Introduce tu nombre</string>
+    <string name="abandono">¿Quieres abandonar la partida? </string>
+    <string name="Si"> Sí </string>
+    <string name="No" translatable="false"> No </string>
+    <string name="FinalButton">OK</string>
+    <string name="TituloScore">Puntuaciones</string>
+    <string name="easy">Fácil</string>
+    <string name="medium">Medio</string>
+    <string name="hard">Difícil</string>
+    <string name="title_activity_choose_photo" translatable="false">ChoosePhotoActivity</string>
+    <string name="title_activity_juego" translatable="false">MainActivity</string>
+    <string name="title_activity_level" translatable="false">LevelActivity</string>
+    <string name="title_activity_scores" translatable="false">ScoresActivity</string>
+    <string name="title_activity_help" translatable="false">HelpActivity</string>
+    <string name="Help">Ayuda</string>
+    <string name="pas1">1. Escoge tu nivel!</string>
+    <string name="pas2">2. Escoge una imagen!</string>
+    <string name="pas3">3. Recortala!</string>
+    <string name="pas4">4. Dale a Jugar!</string>
+    <string name="pas1b">Escoge entre Fácil, Medio o difícil!</string>
+    <string name="pas2b">De la cámara o de la galeria!</string>
+    <string name="pas3b">Recortala para jugar con ella!</string>
+    <string name="pas4b">Juega con ella y diviertete!</string>
+    <string name="HTitle">Cómo se juega</string>
+    <string name="d1">¿Que quieres hacer?</string>
+    <string name="d2">Cambiar nivel</string>
+    <string name="d3">Cambiar foto</string>
+    <string name="d4">Seguir</string>
+
+</resources>

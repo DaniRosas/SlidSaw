@@ -1,0 +1,5 @@
+/home/dani/Documentos/AndroidStudioProjects/SlidSaw_beta/app/build/intermediates/classes/debug
+/home/dani/Documentos/AndroidStudioProjects/SlidSaw_beta/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-550257379dbca7312d730f1e955f3076cd2464ec.jar
+/home/dani/Documentos/AndroidStudioProjects/SlidSaw_beta/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-f40ff457ae92be33d28343a5d0fc2cce990ea6ba.jar
+/home/dani/Documentos/AndroidStudioProjects/SlidSaw_beta/app/build/intermediates/pre-dexed/debug/classes-cc8de7736aa2ca3c0d33d0f4504bf8db999a5189.jar
+/home/dani/Documentos/AndroidStudioProjects/SlidSaw_beta/app/build/intermediates/pre-dexed/debug/classes-9446f2bcfcce586b669bd4e8aff2ba08e8e53e86.jar

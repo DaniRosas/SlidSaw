@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relative"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".Juego"
+    android:background="@color/primary_color"
+
+    android:paddingLeft="@dimen/activity_horizontal_margin">
+
+    <Chronometer
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Crono"
+        android:textSize="50sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffb5c3a0"
+        android:padding="10dp"
+        android:color="@color/terciary_color"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/time"
+        android:id="@+id/time"
+        android:textSize="20sp"
+        android:textColor="#ff808b71"
+        android:gravity="center"
+        android:padding="20dp"
+        android:layout_below="@+id/Crono"
+        android:layout_centerHorizontal="true" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText"
+        android:gravity="center_vertical"
+        android:hint="@string/name"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/OK"
+        android:id="@+id/btn_ok"
+        android:onClick="onScore"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="@color/primary_dark_color"/>
+
+   <com.example.dani.slidsaw_beta.GameView
+         android:layout_width="fill_parent"
+         android:layout_height="fill_parent"
+         android:id="@+id/gameview"
+         android:layout_below="@+id/Crono"
+         android:layout_alignParentRight="true"
+         android:layout_alignParentEnd="true"
+        android:background="@color/primary_color"
+        />
+
+</RelativeLayout><!-- From: file:/Users/xaviaguirretorres/Downloads/SlidSaw/app/src/main/res/layout/activity_juego.xml -->

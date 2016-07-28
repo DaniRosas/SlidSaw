@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-a01f9c2328af2f7a38bcd51c1d1a79fad3f4ef13.jar" />
+    </item>
+    <item
+        jar="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="263921bb533f22c6ae13ee8f66d449b5a734968a">
+        <dex dex="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/pre-dexed/debug/classes-55edd28618a7532ee2d702c8d92d38de4ad72018.jar" />
+    </item>
+    <item
+        jar="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/pre-dexed/debug/classes-d0a0e6711e87b78370929e886d43527c187b7f46.jar" />
+    </item>
+    <item
+        jar="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/pre-dexed/debug/classes-0291fdb157d8c5ccd08049f3ccc761bf1e8015c9.jar" />
+    </item>
+    <item
+        jar="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/pre-dexed/debug/classes-ce96aeebdcf077e305eed0cf316ac8d89bd67ca3.jar" />
+    </item>
+    <item
+        jar="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/pre-dexed/debug/classes-396d13fb41eb75570bde3df6223879f4cb87f536.jar" />
+    </item>
+    <item
+        jar="/Users/xaviaguirretorres/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/xaviaguirretorres/Downloads/SlidSaw/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-9c444ff9244e21fde7df990c81bb75fc0926bc0b.jar" />
+    </item>
+
+</items>
